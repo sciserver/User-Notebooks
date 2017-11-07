@@ -1,6 +1,6 @@
 [submodule "Karen-Masters"]
 	path = Karen-Masters
-	url = https://github.com/sciserver/ComputationalPhysicsUnit
+	url = git@github.com:sciserver/ComputationalPhysicsUnit.git
 [submodule "Mattia-Almansi"]
 	path = Mattia-Almansi
-	url = //github.com/sciserver/JHU-MITgcm_Tools
+	url = git@github.com:sciserver/JHU-MITgcm_Tools
